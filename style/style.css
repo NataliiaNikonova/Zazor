@@ -37,6 +37,7 @@ body {
 
 .mobile span {
 	display: inline-block;
+	position: absolute;
 	text-align: justify;
 	margin-left: 2px;
 	font-size: 19px;
